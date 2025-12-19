@@ -10,7 +10,7 @@
         <NuxtLink to="/">
           <div class="pb-1" :style="{ height: getLogoHeight() }">
             <img
-              src="/assets/images/brand/logo-alt.svg"
+              src="/assets/images/brand/logo-secondary-1.svg"
               :alt="common?.accessibility?.brandLogo || 'Brand Logo'"
               class="h-full w-full"
             />
