@@ -1,0 +1,30 @@
+{
+  "quizzes": [
+    {
+      "id": "quiz-1767878874741-fvzvv8f",
+      "slug": "timer-name",
+      "name": "Timer name",
+      "description": "asdasd",
+      "version": "1.0.0",
+      "metadata": null,
+      "created_at": "2026-01-08T13:27:54.741Z",
+      "organization_id": "630d240b-36b7-4a19-af7a-494500de5b3d",
+      "product_bundle_ids": [],
+      "progressSteps": [
+        {
+          "id": "progress-1767878874741-1",
+          "quiz_id": "quiz-1767878874741-fvzvv8f",
+          "slug": "information",
+          "name": "Information",
+          "description": "Provide your information",
+          "color": "#3B82F6",
+          "step_order": 1
+        }
+      ],
+      "formSteps": [],
+      "quizFormStepMapping": [],
+      "stepProgressMapping": []
+    }
+  ],
+  "templates": []
+}
